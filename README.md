@@ -20,3 +20,13 @@ Proyecto de pruebas automatizadas de API utilizando Python y pytest.
 Para ejecutar las pruebas utiliza:
 
 pytest
+
+## Git Workflow
+
+This project uses Git and GitHub for version control.
+
+- Branches
+- Commits
+- Push
+- Pull
+- SSH Authentication
